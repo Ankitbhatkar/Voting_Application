@@ -17,7 +17,7 @@
 
 ## Setup Instructions
 1. Clone the repo: 
-git clone https://github.com/Sakshiyd/Votezy.git
+git clone https://github.com/Ankitbhatkar/Voting_Application.git
 
 2. Navigate to the project folder:
 cd Votezy
