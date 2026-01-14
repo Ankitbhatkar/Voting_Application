@@ -1,6 +1,6 @@
-# Votezy – Online Voting System
+# Voting Web Application – Online Voting System
 
-**Votezy** is a full-stack online voting management system that allows creating elections, registering candidates, and tallying votes in real-time.
+**** is a full-stack online voting management system that allows creating elections, registering candidates, and tallying votes in real-time.
 
 ## Features
 - Create and manage elections
